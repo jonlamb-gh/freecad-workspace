@@ -1,0 +1,2 @@
+# freecad-workspace
+FreeCAD Workspace
