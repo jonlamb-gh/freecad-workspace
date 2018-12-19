@@ -1,0 +1,54 @@
+<!DOCTYPE MeshLabDocument>
+<MeshLabProject>
+ <MeshGroup>
+  <MLMesh label="major_top_board.obj" filename="../obj/major_top_board.obj">
+   <MLMatrix44>
+1 0 0 0 
+0 1 0 0 
+0 0 1 0 
+0 0 0 1 
+</MLMatrix44>
+  </MLMesh>
+  <MLMesh label="minor_top_board.obj" filename="../obj/minor_top_board.obj">
+   <MLMatrix44>
+1 0 0 0 
+0 1 0 25 
+0 0 1 0 
+0 0 0 1 
+</MLMatrix44>
+  </MLMesh>
+  <MLMesh label="major_top_board(1).obj" filename="../obj/major_top_board.obj">
+   <MLMatrix44>
+1 0 0 0 
+0 1 0 38 
+0 0 1 0 
+0 0 0 1 
+</MLMatrix44>
+  </MLMesh>
+  <MLMesh label="minor_top_board(1).obj" filename="../obj/minor_top_board.obj">
+   <MLMatrix44>
+1 0 0 0 
+0 1 0 63 
+0 0 1 0 
+0 0 0 1 
+</MLMatrix44>
+  </MLMesh>
+  <MLMesh label="major_top_board(2).obj" filename="../obj/major_top_board.obj">
+   <MLMatrix44>
+1 0 0 0 
+0 1 0 76 
+0 0 1 0 
+0 0 0 1 
+</MLMatrix44>
+  </MLMesh>
+  <MLMesh label="minor_top_board(2).obj" filename="../obj/minor_top_board.obj">
+   <MLMatrix44>
+1 0 0 0 
+0 1 0 101 
+0 0 1 0 
+0 0 0 1 
+</MLMatrix44>
+  </MLMesh>
+ </MeshGroup>
+ <RasterGroup/>
+</MeshLabProject>
