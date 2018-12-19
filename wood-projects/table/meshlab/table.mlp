@@ -5,7 +5,7 @@
    <MLMatrix44>
 1 0 0 0 
 0 1 0 0 
-0 0 1 0 
+0 0 1 93.5 
 0 0 0 1 
 </MLMatrix44>
   </MLMesh>
@@ -13,7 +13,7 @@
    <MLMatrix44>
 1 0 0 0 
 0 1 0 25 
-0 0 1 0 
+0 0 1 93.5 
 0 0 0 1 
 </MLMatrix44>
   </MLMesh>
@@ -21,7 +21,7 @@
    <MLMatrix44>
 1 0 0 0 
 0 1 0 38 
-0 0 1 0 
+0 0 1 93.5 
 0 0 0 1 
 </MLMatrix44>
   </MLMesh>
@@ -29,7 +29,7 @@
    <MLMatrix44>
 1 0 0 0 
 0 1 0 63 
-0 0 1 0 
+0 0 1 93.5 
 0 0 0 1 
 </MLMatrix44>
   </MLMesh>
@@ -37,7 +37,7 @@
    <MLMatrix44>
 1 0 0 0 
 0 1 0 76 
-0 0 1 0 
+0 0 1 93.5 
 0 0 0 1 
 </MLMatrix44>
   </MLMesh>
@@ -45,7 +45,87 @@
    <MLMatrix44>
 1 0 0 0 
 0 1 0 101 
-0 0 1 0 
+0 0 1 93.5 
+0 0 0 1 
+</MLMatrix44>
+  </MLMesh>
+  <MLMesh label="top_support_board.obj" filename="../obj/top_support_board.obj">
+   <MLMatrix44>
+1 0 0 24 
+0 1 0 6.5 
+0 0 1 88.5 
+0 0 0 1 
+</MLMatrix44>
+  </MLMesh>
+  <MLMesh label="top_support_board(1).obj" filename="../obj/top_support_board.obj">
+   <MLMatrix44>
+1 0 0 86 
+0 1 0 6.5 
+0 0 1 88.5 
+0 0 0 1 
+</MLMatrix44>
+  </MLMesh>
+  <MLMesh label="tenon_side_board.obj" filename="../obj/tenon_side_board.obj">
+   <MLMatrix44>
+1 0 0 12 
+0 -4.37114e-08 -1 95.75 
+0 1 -4.37114e-08 79.5 
+0 0 0 1 
+</MLMatrix44>
+  </MLMesh>
+  <MLMesh label="tenon_side_board(1).obj" filename="../obj/tenon_side_board.obj">
+   <MLMatrix44>
+1 0 0 12 
+0 -4.37114e-08 -1 20.75 
+0 1 -4.37114e-08 79.5 
+0 0 0 1 
+</MLMatrix44>
+  </MLMesh>
+  <MLMesh label="mortise_side_board.obj" filename="../obj/mortise_side_board.obj">
+   <MLMatrix44>
+-4.37114e-08 4.37114e-08 1 18.75 
+1 1.91069e-15 4.37114e-08 14.5 
+0 1 -4.37114e-08 79.5 
+0 0 0 1 
+</MLMatrix44>
+  </MLMesh>
+  <MLMesh label="mortise_side_board(1).obj" filename="../obj/mortise_side_board.obj">
+   <MLMatrix44>
+-4.37114e-08 4.37114e-08 1 93.75 
+1 1.91069e-15 4.37114e-08 14.5 
+0 1 -4.37114e-08 79.5 
+0 0 0 1 
+</MLMatrix44>
+  </MLMesh>
+  <MLMesh label="leg_board.obj" filename="../obj/leg_board.obj">
+   <MLMatrix44>
+1.19249e-08 0 -1 24 
+0 1 0 15.5 
+1 0 1.19249e-08 0 
+0 0 0 1 
+</MLMatrix44>
+  </MLMesh>
+  <MLMesh label="leg_board(1).obj" filename="../obj/leg_board.obj">
+   <MLMatrix44>
+1.42203e-16 1 -1.19249e-08 16 
+-1.19249e-08 1.19249e-08 1 90.5 
+1 0 1.19249e-08 0 
+0 0 0 1 
+</MLMatrix44>
+  </MLMesh>
+  <MLMesh label="leg_board(2).obj" filename="../obj/leg_board.obj">
+   <MLMatrix44>
+-1.19249e-08 8.74228e-08 1 91 
+-1.04251e-15 -1 8.74228e-08 98.5 
+1 0 1.19249e-08 0 
+0 0 0 1 
+</MLMatrix44>
+  </MLMesh>
+  <MLMesh label="leg_board(3).obj" filename="../obj/leg_board.obj">
+   <MLMatrix44>
+-5.21253e-16 -1 4.37114e-08 99 
+1.19249e-08 -4.37114e-08 -1 23.5 
+1 0 1.19249e-08 0 
 0 0 0 1 
 </MLMatrix44>
   </MLMesh>
